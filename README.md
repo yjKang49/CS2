@@ -1,2 +1,2 @@
 # CS2
-certificate (edit more...) 
+PKI 기반의 인증성 발급, 등록, 유지 및 검증을 위한 솔루션의 개발 프로젝트
